@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\bin\Debug\net6.0\exampleQueue.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\bin\Debug\net6.0\exampleQueue.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\bin\Debug\net6.0\exampleQueue.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\bin\Debug\net6.0\exampleQueue.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\bin\Debug\net6.0\exampleQueue.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\refint\exampleQueue.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\exampleQueue.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleQueue\exampleQueue\obj\Debug\net6.0\ref\exampleQueue.dll
